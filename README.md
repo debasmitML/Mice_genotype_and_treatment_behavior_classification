@@ -1,1 +1,2 @@
 # Mice_genotype_and_treatment_behavior_classification
+Some experiments were conducted on mice to see if a treatment of Down’s syndrome works or not.Mice were divided into control and diseased (genotype), treated or untreated and whether it shows a particularbehavior or not (treatment_behavior). Readings for 77 proteins were recorded for the mice, but some of thereadings were discarded if they seemed unreliable (out of range)
